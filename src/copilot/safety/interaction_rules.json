@@ -1,0 +1,117 @@
+[
+  {
+    "id": "RULE-EGFR-METFORMIN",
+    "type": "egfr_min",
+    "severity": "hard",
+    "target_drugs": ["Metformin"],
+    "min_egfr": 30,
+    "reason": "Metformin is contraindicated when eGFR is below 30 mL/min/1.73 m2 due to lactic acidosis risk.",
+    "citation": "ADA Standards of Care 2024; KDIGO 2022."
+  },
+  {
+    "id": "RULE-EGFR-SGLT2",
+    "type": "egfr_min",
+    "severity": "hard",
+    "target_class": "sglt2",
+    "min_egfr": 20,
+    "reason": "SGLT2 inhibitors should not be initiated when eGFR is below 20 mL/min/1.73 m2.",
+    "citation": "KDIGO 2022 Diabetes in CKD; FDA labeling."
+  },
+  {
+    "id": "RULE-EGFR-FINERENONE",
+    "type": "egfr_min",
+    "severity": "hard",
+    "target_drugs": ["Finerenone"],
+    "min_egfr": 25,
+    "reason": "Finerenone is not recommended to be initiated when eGFR is below 25 mL/min/1.73 m2.",
+    "citation": "KDIGO 2022 Diabetes in CKD."
+  },
+  {
+    "id": "RULE-EGFR-GLYBURIDE",
+    "type": "egfr_min",
+    "severity": "soft",
+    "target_drugs": ["Glyburide"],
+    "min_egfr": 60,
+    "reason": "Glyburide is renally cleared and carries a high hypoglycemia risk in reduced kidney function; avoid when eGFR is below 60.",
+    "citation": "ADA Standards of Care 2024."
+  },
+  {
+    "id": "RULE-ALLERGY-SULFA",
+    "type": "allergy",
+    "severity": "hard",
+    "allergy_terms": ["sulfa", "sulfonamide"],
+    "target_class": "sulfonylurea",
+    "reason": "Sulfonylureas are sulfonamide derivatives and are contraindicated in patients with a sulfa allergy.",
+    "citation": "Drug labeling; cross-reactivity caution."
+  },
+  {
+    "id": "RULE-POTASSIUM-RAS",
+    "type": "potassium_max",
+    "severity": "hard",
+    "target_class": "acei",
+    "max_potassium": 5.5,
+    "reason": "ACE inhibitors can worsen hyperkalemia; avoid initiation when serum potassium exceeds 5.5 mEq/L.",
+    "citation": "ADA Standards of Care 2024; KDIGO 2022."
+  },
+  {
+    "id": "RULE-POTASSIUM-ARB",
+    "type": "potassium_max",
+    "severity": "hard",
+    "target_class": "arb",
+    "max_potassium": 5.5,
+    "reason": "Angiotensin receptor blockers can worsen hyperkalemia; avoid initiation when serum potassium exceeds 5.5 mEq/L.",
+    "citation": "ADA Standards of Care 2024; KDIGO 2022."
+  },
+  {
+    "id": "RULE-POTASSIUM-FINERENONE",
+    "type": "potassium_max",
+    "severity": "hard",
+    "target_drugs": ["Finerenone"],
+    "max_potassium": 5.0,
+    "reason": "Finerenone should only be initiated when serum potassium is 5.0 mEq/L or below due to hyperkalemia risk.",
+    "citation": "KDIGO 2022 Diabetes in CKD."
+  },
+  {
+    "id": "RULE-COMBO-ACEI-ARB",
+    "type": "avoid_combo",
+    "severity": "hard",
+    "target_class": "acei",
+    "conflicts_with_class": "arb",
+    "reason": "Combined ACE inhibitor and ARB therapy (dual RAS blockade) increases the risk of hyperkalemia and acute kidney injury and is not recommended.",
+    "citation": "ACC/AHA 2017; KDIGO 2022."
+  },
+  {
+    "id": "RULE-COMBO-ARB-ACEI",
+    "type": "avoid_combo",
+    "severity": "hard",
+    "target_class": "arb",
+    "conflicts_with_class": "acei",
+    "reason": "Combined ARB and ACE inhibitor therapy (dual RAS blockade) increases the risk of hyperkalemia and acute kidney injury and is not recommended.",
+    "citation": "ACC/AHA 2017; KDIGO 2022."
+  },
+  {
+    "id": "RULE-COMBO-DPP4-GLP1",
+    "type": "avoid_combo",
+    "severity": "hard",
+    "target_class": "dpp4",
+    "conflicts_with_class": "glp1",
+    "reason": "DPP-4 inhibitors and GLP-1 receptor agonists act on the same incretin pathway and should not be combined.",
+    "citation": "ADA Standards of Care 2024."
+  },
+  {
+    "id": "RULE-COMBO-SU-INSULIN",
+    "type": "avoid_combo",
+    "severity": "soft",
+    "target_class": "sulfonylurea",
+    "conflicts_with_class": "insulin",
+    "reason": "Combining a sulfonylurea with insulin substantially increases hypoglycemia risk; use with caution and consider dose reduction.",
+    "citation": "ADA Standards of Care 2024."
+  },
+  {
+    "id": "RULE-DUPLICATE-THERAPY",
+    "type": "duplicate_class",
+    "severity": "hard",
+    "reason": "The patient is already on a medication of this class; recommending another of the same class is duplicate therapy.",
+    "citation": "General prescribing principle."
+  }
+]

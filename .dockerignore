@@ -1,0 +1,11 @@
+.git/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+tools/
+data/synthea/
+data/qdrant/
+data/lora/
+.env
+*.md

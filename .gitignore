@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+
+tools/
+data/synthea/
+data/qdrant/
+artifacts/lora_adapter/
+artifacts/rationale-model/
+*.gguf
+*.safetensors

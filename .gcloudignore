@@ -1,0 +1,14 @@
+.git/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+tools/
+data/synthea/
+data/lora/
+data/qdrant/
+artifacts/lora_adapter/
+artifacts/rationale-model/
+notebooks/
+tests/
+.env

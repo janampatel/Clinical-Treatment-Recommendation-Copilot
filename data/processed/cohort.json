@@ -1,0 +1,3136 @@
+[
+  {
+    "patient_id": "ea8df98b-6ed8-2f53-9f6a-80af4fa3bd0f",
+    "age": 74,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Galantamine 4 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 159.7,
+      "ldl": 56.5,
+      "hdl": 51.5,
+      "sbp": 125.0,
+      "dbp": 93.0,
+      "potassium": 4.5,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "23b2748f-f947-ab16-a59c-ec27c3dc2b88",
+    "age": 62,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 84.0,
+      "ldl": 97.1,
+      "hdl": 50.1,
+      "sbp": 147.0,
+      "dbp": 91.0,
+      "potassium": 4.3,
+      "creatinine": 2.6
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "2da93fba-3e3f-5bde-cf1b-dd9f831a43b3",
+    "age": 69,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3",
+      "Chronic Kidney Disease stage 4"
+    ],
+    "medications": [
+      "Naproxen sodium 220 MG Oral Tablet",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "aspirin 81 MG Oral Tablet",
+      "carvedilol 25 MG Oral Tablet",
+      "pravastatin sodium 40 MG Oral Tablet",
+      "enalapril maleate 5 MG Oral Tablet",
+      "prasugrel 10 MG Oral Tablet",
+      "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.1,
+      "egfr": 40.2,
+      "ldl": 89.9,
+      "hdl": 30.9,
+      "sbp": 114.0,
+      "dbp": 81.0,
+      "potassium": 4.7,
+      "creatinine": 1.9
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "f465d33c-c161-33dd-3314-28d001671027",
+    "age": 63,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "aspirin 81 MG Oral Tablet",
+      "labetalol hydrochloride 300 MG Oral Tablet",
+      "lovastatin 20 MG Oral Tablet",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Wheat (substance)"
+    ],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 217.1,
+      "hdl": 27.7,
+      "sbp": 115.0,
+      "dbp": 85.0,
+      "potassium": 3.8,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "307ab11f-ff8e-63d6-fb00-b97e91b2234e",
+    "age": 58,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Naproxen sodium 220 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.1,
+      "egfr": null,
+      "ldl": 36.5,
+      "hdl": 58.0,
+      "sbp": 135.0,
+      "dbp": 87.0,
+      "potassium": 4.2,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "ce07a24b-e938-5968-9ecb-78eb1783f5e7",
+    "age": 54,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Mold (organism)",
+      "House dust mite (organism)",
+      "Animal dander (substance)",
+      "Grass pollen (substance)",
+      "Tree pollen (substance)",
+      "Tree nut (substance)"
+    ],
+    "labs": {
+      "hba1c": 6.4,
+      "egfr": null,
+      "ldl": 151.2,
+      "hdl": 28.2,
+      "sbp": 138.0,
+      "dbp": 96.0,
+      "potassium": 4.3,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "5c9f20d5-8361-b331-9267-5303ca5b136a",
+    "age": 56,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 184.6,
+      "hdl": 67.0,
+      "sbp": 123.0,
+      "dbp": 80.0,
+      "potassium": 4.7,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "a616b470-5b89-1ddf-8006-466a1b86edd8",
+    "age": 90,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 1",
+      "Chronic Kidney Disease stage 2"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Galantamine 4 MG Oral Tablet",
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 3.9,
+      "egfr": 78.9,
+      "ldl": 115.2,
+      "hdl": 49.4,
+      "sbp": 115.0,
+      "dbp": 71.0,
+      "potassium": 5.0,
+      "creatinine": 2.0
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "95e9ad10-f7c2-5a1e-84a9-9edf73d8c61a",
+    "age": 58,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3",
+      "Chronic Kidney Disease stage 4"
+    ],
+    "medications": [
+      "Naproxen sodium 220 MG Oral Tablet",
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 3.2,
+      "egfr": 75.4,
+      "ldl": 103.2,
+      "hdl": 59.0,
+      "sbp": 149.0,
+      "dbp": 100.0,
+      "potassium": 5.1,
+      "creatinine": 2.1
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "f1c177e7-2945-c20d-0d7f-673ce7ef53d0",
+    "age": 57,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": 68.4,
+      "ldl": 177.4,
+      "hdl": 52.3,
+      "sbp": 104.0,
+      "dbp": 63.0,
+      "potassium": 4.6,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "9b8aa92d-b861-91bb-6565-486a566f2324",
+    "age": 68,
+    "sex": "F",
+    "conditions": [
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3"
+    ],
+    "medications": [
+      "Naproxen sodium 220 MG Oral Tablet",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet",
+      "Alendronic acid 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": null,
+      "egfr": 94.4,
+      "ldl": 106.5,
+      "hdl": 55.5,
+      "sbp": 112.0,
+      "dbp": 88.0,
+      "potassium": 3.8,
+      "creatinine": 1.7
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "b9b2d24d-b969-9415-d821-b90a382311af",
+    "age": 52,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Hydrocortisone 10 MG/ML Topical Cream",
+      "Vitamin B12 5 MG/ML Injectable Solution"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Shellfish (substance)"
+    ],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 70.5,
+      "hdl": 58.0,
+      "sbp": 104.0,
+      "dbp": 68.0,
+      "potassium": 4.8,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "9589dfd6-09ea-113d-ca42-4f09df70f4a9",
+    "age": 51,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Vitamin B12 5 MG/ML Injectable Solution"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.1,
+      "egfr": null,
+      "ldl": 123.3,
+      "hdl": 52.4,
+      "sbp": 137.0,
+      "dbp": 82.0,
+      "potassium": 4.5,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "40e66c47-f6e8-c2e7-6be6-dbc4b4fabe8d",
+    "age": 80,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Simvastatin 10 MG Oral Tablet",
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "tramadol hydrochloride 50 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "Alendronic acid 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.1,
+      "egfr": 130.7,
+      "ldl": 129.4,
+      "hdl": 60.6,
+      "sbp": 113.0,
+      "dbp": 68.0,
+      "potassium": 4.5,
+      "creatinine": 1.7
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "4baf953f-897a-3bf2-4bfd-1cb98984249c",
+    "age": 78,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "aspirin 81 MG Oral Tablet",
+      "atenolol 25 MG Oral Tablet",
+      "atorvastatin 10 MG Oral Tablet",
+      "losartan potassium 50 MG Oral Tablet",
+      "prasugrel 10 MG Oral Tablet",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.1,
+      "egfr": 8.7,
+      "ldl": 222.0,
+      "hdl": 47.8,
+      "sbp": 112.0,
+      "dbp": 61.0,
+      "potassium": 4.9,
+      "creatinine": 2.5
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "ded16dae-9c87-49c1-ca28-6431e75accdb",
+    "age": 31,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+      "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": null,
+      "ldl": 82.7,
+      "hdl": 52.9,
+      "sbp": 102.0,
+      "dbp": 76.0,
+      "potassium": 4.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "1f982352-c094-278a-8196-e80b2dd76f13",
+    "age": 32,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 83.1,
+      "hdl": 57.1,
+      "sbp": 129.0,
+      "dbp": 81.0,
+      "potassium": 4.8,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "62ee5c8b-42c2-1d08-47a0-9a92ead2b13a",
+    "age": 19,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Fexofenadine hydrochloride 30 MG Oral Tablet",
+      "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector",
+      "budesonide 0.25 MG/ML Inhalation Suspension",
+      "albuterol 0.83 MG/ML Inhalation Solution"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Latex (substance)",
+      "Mold (organism)",
+      "House dust mite (organism)",
+      "Animal dander (substance)",
+      "Grass pollen (substance)",
+      "Tree pollen (substance)",
+      "Sulfamethoxazole / Trimethoprim",
+      "Cow's milk (substance)",
+      "Glycine max (substance)"
+    ],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": null,
+      "ldl": null,
+      "hdl": null,
+      "sbp": 101.0,
+      "dbp": 72.0,
+      "potassium": 4.5,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "61adca65-7bfe-93d6-9149-068a3e2ccafb",
+    "age": 42,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Hydrochlorothiazide 25 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": null,
+      "ldl": 72.5,
+      "hdl": 57.8,
+      "sbp": 157.0,
+      "dbp": 97.0,
+      "potassium": 4.9,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "7b6669e2-e055-6217-9376-32b0eef0f1b8",
+    "age": 70,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "albuterol 5 MG/ML Inhalation Solution",
+      "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": 15.5,
+      "ldl": 112.7,
+      "hdl": 57.8,
+      "sbp": 121.0,
+      "dbp": 87.0,
+      "potassium": 5.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "89fc67ed-55e8-771f-67ab-ade3d58e9cdf",
+    "age": 74,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.9,
+      "egfr": 155.3,
+      "ldl": 120.6,
+      "hdl": 58.7,
+      "sbp": 119.0,
+      "dbp": 91.0,
+      "potassium": 4.8,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "8279178d-e14b-b9ba-4bd6-0f2cf933b5d2",
+    "age": 90,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Vitamin B12 5 MG/ML Injectable Solution",
+      "Simvastatin 10 MG Oral Tablet",
+      "aspirin 81 MG Oral Tablet",
+      "atenolol 50 MG Oral Tablet",
+      "pravastatin sodium 10 MG Oral Tablet",
+      "losartan potassium 50 MG Oral Tablet",
+      "prasugrel 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.4,
+      "egfr": 71.8,
+      "ldl": 209.2,
+      "hdl": 55.0,
+      "sbp": 109.0,
+      "dbp": 87.0,
+      "potassium": 4.1,
+      "creatinine": 2.7
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "6478228d-1f08-7648-ed95-baea6b99fbd8",
+    "age": 61,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Acetaminophen 325 MG Oral Tablet [Tylenol]"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 33.8,
+      "hdl": 52.3,
+      "sbp": 113.0,
+      "dbp": 65.0,
+      "potassium": 4.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "110f43f1-8470-082d-3cb0-0951f5a68180",
+    "age": 54,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "ferrous sulfate 325 MG Oral Tablet",
+      "Sertraline 100 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 56.0,
+      "hdl": 55.7,
+      "sbp": 124.0,
+      "dbp": 71.0,
+      "potassium": 3.7,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "aee8bc70-2c23-21ed-0d03-cc3c5fc379bf",
+    "age": 59,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3"
+    ],
+    "medications": [
+      "Vitamin B12 5 MG/ML Injectable Solution",
+      "Naproxen sodium 220 MG Oral Tablet",
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 2.9,
+      "egfr": 46.9,
+      "ldl": 119.0,
+      "hdl": 29.2,
+      "sbp": 136.0,
+      "dbp": 87.0,
+      "potassium": 3.9,
+      "creatinine": 1.9
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "7a58a941-bd27-086e-d622-38e5917d0df5",
+    "age": 69,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": 72.1,
+      "ldl": 104.7,
+      "hdl": 53.0,
+      "sbp": 131.0,
+      "dbp": 88.0,
+      "potassium": 5.2,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "288427c5-ee03-f47e-6872-def5772f427c",
+    "age": 70,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Chronic Kidney Disease stage 2"
+    ],
+    "medications": [
+      "Chlorpheniramine Maleate 2 MG/ML Oral Solution",
+      "Hydrocortisone 10 MG/ML Topical Cream",
+      "ferrous sulfate 325 MG Oral Tablet",
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)"
+    ],
+    "labs": {
+      "hba1c": 3.1,
+      "egfr": 110.0,
+      "ldl": 118.2,
+      "hdl": 54.5,
+      "sbp": 112.0,
+      "dbp": 76.0,
+      "potassium": 3.9,
+      "creatinine": 1.7
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "08e7b250-dc1d-5342-b5ee-241c8d9f67a4",
+    "age": 55,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.1,
+      "egfr": null,
+      "ldl": 115.5,
+      "hdl": 49.9,
+      "sbp": 112.0,
+      "dbp": 71.0,
+      "potassium": 4.3,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "4e2356e0-9b05-c644-ee94-36b0a383569b",
+    "age": 57,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Hydrochlorothiazide 25 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": null,
+      "ldl": 88.4,
+      "hdl": 27.0,
+      "sbp": 133.0,
+      "dbp": 97.0,
+      "potassium": 5.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "4ccb9080-c03e-a575-1d06-51e69ea133e5",
+    "age": 90,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "Alendronic acid 10 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.4,
+      "egfr": 110.3,
+      "ldl": 103.5,
+      "hdl": 31.5,
+      "sbp": 124.0,
+      "dbp": 67.0,
+      "potassium": 4.9,
+      "creatinine": null
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "98366322-4b94-840e-2e73-5e2aa0042386",
+    "age": 21,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Vitamin B12 5 MG/ML Injectable Solution"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": null,
+      "ldl": null,
+      "hdl": null,
+      "sbp": 114.0,
+      "dbp": 88.0,
+      "potassium": 4.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "af208568-907e-6bda-325c-01bda825af1c",
+    "age": 74,
+    "sex": "F",
+    "conditions": [
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3",
+      "Chronic Kidney Disease stage 4"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 2.8,
+      "egfr": 37.9,
+      "ldl": 65.9,
+      "hdl": 57.5,
+      "sbp": 142.0,
+      "dbp": 83.0,
+      "potassium": 3.9,
+      "creatinine": 2.0
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "8edc7a22-4511-0d87-c9b8-7ae7ace1805b",
+    "age": 82,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "ferrous sulfate 325 MG Oral Tablet",
+      "Naproxen sodium 220 MG Oral Tablet",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule",
+      "Alendronic acid 10 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 75.8,
+      "ldl": 101.7,
+      "hdl": 37.3,
+      "sbp": 130.0,
+      "dbp": 69.0,
+      "potassium": 5.0,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "f7aa8c13-e38f-eb45-13ff-1fc1bbdd6548",
+    "age": 71,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Chlorpheniramine Maleate 2 MG/ML Oral Solution",
+      "doxycycline hyclate 100 MG",
+      "budesonide 0.25 MG/ML Inhalation Suspension",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "aspirin 81 MG Oral Capsule [Vazalore]",
+      "amLODIPine 2.5 MG Oral Tablet",
+      "albuterol 0.21 MG/ML Inhalation Solution"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Animal dander (substance)",
+      "Aspirin",
+      "Penicillin V"
+    ],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 7.9,
+      "ldl": 115.4,
+      "hdl": 53.8,
+      "sbp": 131.0,
+      "dbp": 80.0,
+      "potassium": 3.9,
+      "creatinine": 2.9
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "cf6b5139-56ec-28fb-d921-32ce06ac3ab4",
+    "age": 58,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": 81.8,
+      "ldl": 67.3,
+      "hdl": 50.9,
+      "sbp": 107.0,
+      "dbp": 77.0,
+      "potassium": 4.3,
+      "creatinine": null
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "60b5cfed-26c3-727e-abc4-5becb36e3f75",
+    "age": 55,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+      "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",
+      "72 HR Fentanyl 0.025 MG/HR Transdermal System",
+      "12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.4,
+      "egfr": 78.8,
+      "ldl": 118.5,
+      "hdl": 28.3,
+      "sbp": 134.0,
+      "dbp": 62.0,
+      "potassium": 5.0,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "31b5fe0c-a493-9438-7ac6-b3c7cdd723c4",
+    "age": 50,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Chronic Kidney Disease stage 1"
+    ],
+    "medications": [
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": 148.1,
+      "ldl": 85.1,
+      "hdl": 55.7,
+      "sbp": 113.0,
+      "dbp": 86.0,
+      "potassium": 5.2,
+      "creatinine": 1.6
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "f9a59a6d-998c-ce39-12b6-6f6f89ce866e",
+    "age": 54,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "72 HR Fentanyl 0.025 MG/HR Transdermal System",
+      "12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule",
+      "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 97.7,
+      "hdl": 34.8,
+      "sbp": 132.0,
+      "dbp": 70.0,
+      "potassium": 3.7,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "be07da29-3881-4287-ef48-9316cf47fe0d",
+    "age": 98,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 78.1,
+      "ldl": 129.1,
+      "hdl": 64.8,
+      "sbp": 116.0,
+      "dbp": 70.0,
+      "potassium": 3.8,
+      "creatinine": 2.7
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "1050573a-e41d-d125-1268-6b8b4889a6b8",
+    "age": 44,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Naproxen sodium 220 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 86.6,
+      "hdl": 61.1,
+      "sbp": 112.0,
+      "dbp": 79.0,
+      "potassium": 4.5,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "78bfc57c-bf32-a3dc-2851-cbde0949d4c5",
+    "age": 56,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 7.6,
+      "egfr": 154.2,
+      "ldl": 119.2,
+      "hdl": 59.0,
+      "sbp": 153.0,
+      "dbp": 122.0,
+      "potassium": 4.8,
+      "creatinine": null
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.89
+      }
+    ]
+  },
+  {
+    "patient_id": "6ba7246e-01cb-ec23-3bbe-a8f0b31849cb",
+    "age": 71,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Hydrocortisone 10 MG/ML Topical Cream",
+      "Chlorpheniramine Maleate 4 MG Oral Tablet",
+      "aspirin 81 MG Oral Tablet",
+      "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet",
+      "pravastatin sodium 20 MG Oral Tablet",
+      "losartan potassium 50 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)"
+    ],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 102.0,
+      "hdl": 48.9,
+      "sbp": 78.0,
+      "dbp": 79.0,
+      "potassium": 4.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "83bcce12-2bef-ed2e-08b3-d6d2696d0746",
+    "age": 39,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 145.0,
+      "hdl": 56.4,
+      "sbp": 142.0,
+      "dbp": 89.0,
+      "potassium": 4.9,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "c73c5c3e-8a29-fc40-574a-97f9b24e7ab9",
+    "age": 69,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 1",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3",
+      "Chronic Kidney Disease stage 4"
+    ],
+    "medications": [
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf]",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 4.6,
+      "egfr": 55.4,
+      "ldl": 155.2,
+      "hdl": 41.8,
+      "sbp": 102.0,
+      "dbp": 77.0,
+      "potassium": 4.0,
+      "creatinine": 1.9
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "cc275ebe-ba99-2448-a89b-f1cbe0140243",
+    "age": 60,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Chronic Kidney Disease stage 1"
+    ],
+    "medications": [
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.4,
+      "egfr": 131.3,
+      "ldl": 78.7,
+      "hdl": 53.5,
+      "sbp": 130.0,
+      "dbp": 91.0,
+      "potassium": 4.6,
+      "creatinine": 1.7
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "7f116ec2-58eb-a0d4-2682-7a0738b20b35",
+    "age": 62,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia",
+      "Chronic Kidney Disease stage 1",
+      "Chronic Kidney Disease stage 3"
+    ],
+    "medications": [
+      "ferrous sulfate 325 MG Oral Tablet",
+      "Naproxen sodium 220 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet",
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.6,
+      "egfr": 145.7,
+      "ldl": 109.5,
+      "hdl": 49.5,
+      "sbp": 127.0,
+      "dbp": 77.0,
+      "potassium": 4.8,
+      "creatinine": 1.5
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      },
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "e4cb0e77-78b4-eb53-8b2f-60fb85d9610f",
+    "age": 41,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Astemizole 10 MG Oral Tablet"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Latex (substance)",
+      "Mold (organism)",
+      "House dust mite (organism)",
+      "Animal dander (substance)",
+      "Grass pollen (substance)",
+      "Tree pollen (substance)",
+      "Eggs (edible) (substance)",
+      "Shellfish (substance)",
+      "Fish (substance)",
+      "Peanut (substance)"
+    ],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": null,
+      "ldl": 131.8,
+      "hdl": 50.0,
+      "sbp": 115.0,
+      "dbp": 80.0,
+      "potassium": 5.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "4a95bdc7-c1f1-8a09-509a-cf6bef54fc75",
+    "age": 55,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "ritonavir 100 MG Oral Capsule",
+      "darunavir 800 MG Oral Tablet",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.4,
+      "egfr": null,
+      "ldl": 37.4,
+      "hdl": 53.8,
+      "sbp": 94.0,
+      "dbp": 58.0,
+      "potassium": 5.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "5640de8f-defe-9172-1a18-7a7d394564fc",
+    "age": 57,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "albuterol 5 MG/ML Inhalation Solution",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet",
+      "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Peanut (substance)"
+    ],
+    "labs": {
+      "hba1c": 5.5,
+      "egfr": 87.6,
+      "ldl": 103.5,
+      "hdl": 54.9,
+      "sbp": 107.0,
+      "dbp": 65.0,
+      "potassium": 5.0,
+      "creatinine": null
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "5efacb1a-9089-8629-7463-91eec62bd861",
+    "age": 44,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Chronic Kidney Disease stage 2"
+    ],
+    "medications": [
+      "Astemizole 10 MG Oral Tablet",
+      "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector",
+      "{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]",
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet",
+      "budesonide 0.125 MG/ML Inhalation Suspension",
+      "albuterol 0.83 MG/ML Inhalation Solution"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Mold (organism)",
+      "House dust mite (organism)",
+      "Animal dander (substance)",
+      "Grass pollen (substance)",
+      "Tree pollen (substance)"
+    ],
+    "labs": {
+      "hba1c": 6.4,
+      "egfr": 111.4,
+      "ldl": 102.6,
+      "hdl": 29.3,
+      "sbp": 103.0,
+      "dbp": 89.0,
+      "potassium": 4.7,
+      "creatinine": 1.6
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "ef06da40-feb8-0eb8-1232-89501a9d3de8",
+    "age": 48,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Hydrocortisone 10 MG/ML Topical Cream",
+      "Fexofenadine hydrochloride 60 MG Oral Tablet",
+      "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)"
+    ],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": null,
+      "ldl": 119.4,
+      "hdl": 60.7,
+      "sbp": 137.0,
+      "dbp": 74.0,
+      "potassium": 5.0,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "74b884c6-cf44-89f7-c0fa-e4e07d98df7d",
+    "age": 60,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 138.6,
+      "hdl": 59.5,
+      "sbp": 98.0,
+      "dbp": 61.0,
+      "potassium": 4.7,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "98963f73-8377-42bb-0328-9eed0508c96b",
+    "age": 69,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "ferrous sulfate 325 MG Oral Tablet",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "albuterol 5 MG/ML Inhalation Solution",
+      "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 87.4,
+      "ldl": 108.1,
+      "hdl": 56.3,
+      "sbp": 104.0,
+      "dbp": 65.0,
+      "potassium": 5.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "de6bbe4a-c68e-6c8e-a2ab-8d3d37074f3f",
+    "age": 30,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Furosemide 40 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": 109.0,
+      "ldl": 124.5,
+      "hdl": 27.5,
+      "sbp": 105.0,
+      "dbp": 72.0,
+      "potassium": 3.7,
+      "creatinine": 1.5
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "0630bed8-c3bd-b0ea-6777-3be822f0b24a",
+    "age": 41,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.1,
+      "egfr": null,
+      "ldl": 85.1,
+      "hdl": 54.0,
+      "sbp": 133.0,
+      "dbp": 76.0,
+      "potassium": 3.8,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "eed8a921-eac8-0778-4113-255f4e35506a",
+    "age": 63,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Naproxen sodium 220 MG Oral Tablet",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 89.3,
+      "hdl": 53.5,
+      "sbp": 125.0,
+      "dbp": 73.0,
+      "potassium": 4.3,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "253f603b-b2e7-5730-14ba-e5da5392dc93",
+    "age": 74,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Hydrocortisone 10 MG/ML Topical Cream",
+      "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet",
+      "doxycycline hyclate 100 MG",
+      "24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Penicillin V"
+    ],
+    "labs": {
+      "hba1c": 6.1,
+      "egfr": null,
+      "ldl": 90.7,
+      "hdl": 35.3,
+      "sbp": 111.0,
+      "dbp": 78.0,
+      "potassium": 4.2,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "2ec57a45-10ac-16f7-699c-2f48dd7a197d",
+    "age": 71,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "ferrous sulfate 325 MG Oral Tablet",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "tramadol hydrochloride 50 MG Oral Tablet",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 82.1,
+      "ldl": 78.0,
+      "hdl": 54.8,
+      "sbp": 125.0,
+      "dbp": 85.0,
+      "potassium": 3.9,
+      "creatinine": null
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "df252512-4e0d-dcb1-b221-b560643e44f1",
+    "age": 98,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet",
+      "Alendronic acid 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 107.2,
+      "hdl": 52.3,
+      "sbp": 118.0,
+      "dbp": 66.0,
+      "potassium": 4.2,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "3c4b499b-090b-c6fa-28d7-b56c6056d0a2",
+    "age": 80,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": 147.2,
+      "ldl": 92.2,
+      "hdl": 46.8,
+      "sbp": 119.0,
+      "dbp": 87.0,
+      "potassium": 4.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "4a963989-0d8e-f954-2480-88a3908b0581",
+    "age": 52,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Astemizole 10 MG Oral Tablet"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Tree pollen (substance)",
+      "cefdinir"
+    ],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 102.7,
+      "hdl": 58.3,
+      "sbp": 106.0,
+      "dbp": 74.0,
+      "potassium": 4.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "e726fa26-0af8-1b20-5ad1-c62aade8708d",
+    "age": 71,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Memantine hydrochloride 2 MG/ML Oral Solution",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 146.2,
+      "ldl": 127.5,
+      "hdl": 27.9,
+      "sbp": 128.0,
+      "dbp": 85.0,
+      "potassium": 4.3,
+      "creatinine": 2.6
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "595f9fb9-fcf0-e5bc-239a-e86a96db6211",
+    "age": 54,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Naproxen sodium 220 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": null,
+      "ldl": 53.0,
+      "hdl": 56.0,
+      "sbp": 128.0,
+      "dbp": 73.0,
+      "potassium": 4.2,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "8b39d546-3e1e-ef33-faa9-061dd7d8dc62",
+    "age": 43,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "albuterol 5 MG/ML Inhalation Solution",
+      "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 106.0,
+      "hdl": 60.0,
+      "sbp": 111.0,
+      "dbp": 76.0,
+      "potassium": 5.2,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "49da4a61-a2fa-2125-1619-9a644f5123e9",
+    "age": 28,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Acetaminophen 325 MG Oral Tablet [Tylenol]"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": null,
+      "ldl": null,
+      "hdl": null,
+      "sbp": 105.0,
+      "dbp": 86.0,
+      "potassium": 4.3,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "f03f6894-54d8-6ab4-1022-284bd87ff7da",
+    "age": 82,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Memantine hydrochloride 2 MG/ML Oral Solution",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.7,
+      "egfr": 74.7,
+      "ldl": 141.7,
+      "hdl": 28.4,
+      "sbp": 119.0,
+      "dbp": 73.0,
+      "potassium": 4.2,
+      "creatinine": null
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "8e2eb664-7294-85d9-8234-0b687f788d50",
+    "age": 25,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": null,
+      "hdl": null,
+      "sbp": 144.0,
+      "dbp": 72.0,
+      "potassium": 4.5,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "98cf5a0c-d567-51a1-9cb5-a91e6d011996",
+    "age": 58,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Vitamin B12 5 MG/ML Injectable Solution",
+      "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "Ibuprofen 400 MG Oral Tablet [Ibu]"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.8,
+      "egfr": null,
+      "ldl": 85.7,
+      "hdl": 58.5,
+      "sbp": 125.0,
+      "dbp": 75.0,
+      "potassium": 4.4,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "27f086db-83a1-15ce-2b44-0c6c29dbaf6a",
+    "age": 41,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Terfenadine 60 MG Oral Tablet"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Shellfish (substance)"
+    ],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 53.5,
+      "hdl": 61.6,
+      "sbp": 123.0,
+      "dbp": 63.0,
+      "potassium": 3.7,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "91021a1c-d2cc-0636-eb4b-67caa02e8e5f",
+    "age": 65,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Vitamin B12 5 MG/ML Injectable Solution",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+      "albuterol 5 MG/ML Inhalation Solution",
+      "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+      "tramadol hydrochloride 50 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": 5.7,
+      "ldl": 203.4,
+      "hdl": 57.1,
+      "sbp": 117.0,
+      "dbp": 73.0,
+      "potassium": 4.6,
+      "creatinine": 2.8
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "5eb3f6b9-af98-50fc-da1f-951eede3bd47",
+    "age": 49,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 91.0,
+      "hdl": 26.1,
+      "sbp": 108.0,
+      "dbp": 83.0,
+      "potassium": 3.9,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "97ae5dbb-a296-7c39-5b48-7563d72d1d1e",
+    "age": 64,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": 99.0,
+      "ldl": 64.5,
+      "hdl": 58.6,
+      "sbp": 91.0,
+      "dbp": 65.0,
+      "potassium": 4.7,
+      "creatinine": 2.7
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "9050e158-3a76-5ff9-e008-1639a626faa8",
+    "age": 56,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 5.4,
+      "ldl": 113.0,
+      "hdl": 49.9,
+      "sbp": 116.0,
+      "dbp": 66.0,
+      "potassium": 3.9,
+      "creatinine": 2.8
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "7bbaa47e-d029-bf4f-3237-ddd955c0a584",
+    "age": 76,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Vitamin B12 5 MG/ML Injectable Solution",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": 69.1,
+      "ldl": 105.6,
+      "hdl": 53.9,
+      "sbp": 96.0,
+      "dbp": 78.0,
+      "potassium": 3.8,
+      "creatinine": 2.6
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "03368b64-36e2-e031-2e10-10a4bf9ddddc",
+    "age": 66,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "ferrous sulfate 325 MG Oral Tablet",
+      "aspirin 81 MG Oral Tablet",
+      "metoprolol tartrate 50 MG Oral Tablet",
+      "rosuvastatin calcium 20 MG Oral Tablet",
+      "losartan potassium 100 MG Oral Tablet",
+      "carvedilol 25 MG Oral Tablet",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "Furosemide 40 MG Oral Tablet",
+      "sacubitril 97 MG / valsartan 103 MG Oral Tablet [Entresto]",
+      "losartan potassium 50 MG Oral Tablet",
+      "lisinopril 20 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 7.0,
+      "egfr": 153.3,
+      "ldl": 127.0,
+      "hdl": 41.1,
+      "sbp": 135.0,
+      "dbp": 82.0,
+      "potassium": 3.8,
+      "creatinine": 1.1
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "acafc71f-5b8c-017f-b008-23c66df8491d",
+    "age": 68,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "verapamil hydrochloride 80 MG Oral Tablet [Calan]",
+      "Digoxin 0.125 MG Oral Tablet",
+      "Warfarin Sodium 5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 7.0,
+      "egfr": 130.8,
+      "ldl": 126.0,
+      "hdl": 45.3,
+      "sbp": 130.0,
+      "dbp": 70.0,
+      "potassium": 3.9,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "99efb8bf-eb91-ff70-c2c3-50bfaf714194",
+    "age": 82,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.1,
+      "egfr": null,
+      "ldl": 113.0,
+      "hdl": 59.3,
+      "sbp": 135.0,
+      "dbp": 85.0,
+      "potassium": 4.4,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "a91dacf0-75bd-e129-4d7f-b757cfc7a12c",
+    "age": 47,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.8,
+      "egfr": null,
+      "ldl": 66.5,
+      "hdl": 51.5,
+      "sbp": 109.0,
+      "dbp": 78.0,
+      "potassium": 4.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "b16e27ad-282d-4c8a-98b2-9475c0280a58",
+    "age": 33,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": null,
+      "ldl": 107.1,
+      "hdl": 53.9,
+      "sbp": 128.0,
+      "dbp": 74.0,
+      "potassium": 4.9,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "1dbb340b-5ed7-d4cb-54d8-2315a6f592ae",
+    "age": 41,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Vitamin B12 5 MG/ML Injectable Solution",
+      "Naproxen sodium 220 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": null,
+      "ldl": 90.2,
+      "hdl": 61.6,
+      "sbp": 134.0,
+      "dbp": 98.0,
+      "potassium": 5.0,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "86919c2e-6fcc-4756-2a76-c0e31e732109",
+    "age": 68,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 2"
+    ],
+    "medications": [
+      "carvedilol 25 MG Oral Tablet",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "Furosemide 40 MG Oral Tablet",
+      "sacubitril 97 MG / valsartan 103 MG Oral Tablet [Entresto]",
+      "losartan potassium 50 MG Oral Tablet",
+      "lisinopril 20 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.2,
+      "egfr": 128.3,
+      "ldl": 225.4,
+      "hdl": 50.4,
+      "sbp": 117.0,
+      "dbp": 93.0,
+      "potassium": 4.7,
+      "creatinine": 1.4
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "647d9aab-c629-7f22-8d09-1ce8ac29a58d",
+    "age": 51,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "ferrous sulfate 325 MG Oral Tablet",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 146.0,
+      "hdl": 30.5,
+      "sbp": 144.0,
+      "dbp": 84.0,
+      "potassium": 4.0,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "84167da1-5b13-2d3d-9205-3b9f875afe89",
+    "age": 31,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Fexofenadine hydrochloride 30 MG Oral Tablet",
+      "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector",
+      "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+      "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]",
+      "albuterol 0.83 MG/ML Inhalation Solution"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Mold (organism)",
+      "House dust mite (organism)",
+      "Animal dander (substance)",
+      "Grass pollen (substance)",
+      "Tree pollen (substance)",
+      "Sulfamethoxazole / Trimethoprim",
+      "Shellfish (substance)",
+      "Fish (substance)",
+      "Peanut (substance)"
+    ],
+    "labs": {
+      "hba1c": 6.2,
+      "egfr": null,
+      "ldl": 51.4,
+      "hdl": 53.8,
+      "sbp": 102.0,
+      "dbp": 78.0,
+      "potassium": 5.0,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "976e3f24-1d50-efda-229a-1e6d1714f0cd",
+    "age": 61,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 2"
+    ],
+    "medications": [
+      "verapamil hydrochloride 80 MG Oral Tablet [Calan]",
+      "Digoxin 0.125 MG Oral Tablet",
+      "Warfarin Sodium 5 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": null,
+      "egfr": 95.0,
+      "ldl": 84.8,
+      "hdl": 55.6,
+      "sbp": 127.0,
+      "dbp": 79.0,
+      "potassium": 4.8,
+      "creatinine": 1.7
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "757f1616-5833-ad42-8b57-8403ad1081fe",
+    "age": 105,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.4,
+      "egfr": 80.5,
+      "ldl": 95.1,
+      "hdl": 78.0,
+      "sbp": 94.0,
+      "dbp": 64.0,
+      "potassium": 4.7,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "e95ac678-666f-e6f5-eb76-c0273233acb1",
+    "age": 65,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Alteplase 100 MG Injection",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "tramadol hydrochloride 50 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 84.8,
+      "ldl": 119.3,
+      "hdl": 28.8,
+      "sbp": 116.0,
+      "dbp": 78.0,
+      "potassium": 4.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "cd1fa1ca-5f89-59d0-5a9d-98df4309437e",
+    "age": 65,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Vitamin B12 5 MG/ML Injectable Solution",
+      "aspirin 81 MG Oral Tablet",
+      "carvedilol 6.25 MG Oral Tablet",
+      "atorvastatin 10 MG Oral Tablet",
+      "losartan potassium 100 MG Oral Tablet",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "Ibuprofen 400 MG Oral Tablet [Ibu]",
+      "Alendronic acid 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": 13.9,
+      "ldl": 83.8,
+      "hdl": 61.3,
+      "sbp": 137.0,
+      "dbp": 92.0,
+      "potassium": 4.5,
+      "creatinine": 2.7
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "d9896ece-8362-1da9-0377-0d04938a91b0",
+    "age": 98,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3"
+    ],
+    "medications": [
+      "Hydrocortisone 10 MG/ML Topical Cream",
+      "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet",
+      "aspirin 81 MG Oral Tablet",
+      "metoprolol tartrate 25 MG Oral Tablet",
+      "atorvastatin 10 MG Oral Tablet",
+      "lisinopril 20 MG Oral Tablet",
+      "prasugrel 10 MG Oral Tablet"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Penicillin V"
+    ],
+    "labs": {
+      "hba1c": 5.4,
+      "egfr": 60.0,
+      "ldl": 138.6,
+      "hdl": 35.2,
+      "sbp": 127.0,
+      "dbp": 95.0,
+      "potassium": 4.0,
+      "creatinine": 1.4
+    },
+    "treatment_history": [
+      {
+        "drug": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "d9aee469-b9ff-1fc4-2b28-322430471486",
+    "age": 63,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3",
+      "Chronic Kidney Disease stage 4"
+    ],
+    "medications": [
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf]"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": null,
+      "egfr": 44.3,
+      "ldl": 108.3,
+      "hdl": 32.6,
+      "sbp": 131.0,
+      "dbp": 111.0,
+      "potassium": 4.2,
+      "creatinine": 2.1
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "92fb0e68-2998-4a3c-056d-ed2d827e1cf1",
+    "age": 105,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.8,
+      "egfr": 12.9,
+      "ldl": 88.9,
+      "hdl": 51.5,
+      "sbp": 109.0,
+      "dbp": 77.0,
+      "potassium": 3.9,
+      "creatinine": 2.5
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "1a4f7487-d2e6-408c-44a8-ca456c6e38bb",
+    "age": 52,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Chlorpheniramine Maleate 2 MG/ML Oral Solution",
+      "Acetaminophen 325 MG Oral Tablet [Tylenol]"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Mold (organism)",
+      "House dust mite (organism)",
+      "Animal dander (substance)",
+      "Grass pollen (substance)",
+      "Tree pollen (substance)",
+      "Aspirin"
+    ],
+    "labs": {
+      "hba1c": 5.8,
+      "egfr": null,
+      "ldl": 97.9,
+      "hdl": 50.3,
+      "sbp": 103.0,
+      "dbp": 83.0,
+      "potassium": 4.6,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "ab594927-9196-714f-cf03-17fa538cda95",
+    "age": 34,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": null,
+      "ldl": 63.5,
+      "hdl": 51.5,
+      "sbp": 140.0,
+      "dbp": 77.0,
+      "potassium": 4.4,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "171a2edf-e42a-364e-6b06-0c17b5af82b5",
+    "age": 59,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Hyperlipidemia",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": null,
+      "egfr": 87.3,
+      "ldl": 112.5,
+      "hdl": 69.5,
+      "sbp": 105.0,
+      "dbp": 82.0,
+      "potassium": 5.2,
+      "creatinine": 1.7
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "c4d5d909-433c-fccf-5984-4213b88417cb",
+    "age": 48,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3"
+    ],
+    "medications": [
+      "ferrous sulfate 325 MG Oral Tablet",
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.8,
+      "egfr": 124.5,
+      "ldl": 135.5,
+      "hdl": 59.7,
+      "sbp": 144.0,
+      "dbp": 90.0,
+      "potassium": 4.2,
+      "creatinine": 1.6
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  },
+  {
+    "patient_id": "b149bbe2-a604-d60b-ae87-22c88fe33bf6",
+    "age": 59,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": 80.7,
+      "ldl": 106.7,
+      "hdl": 75.9,
+      "sbp": 134.0,
+      "dbp": 74.0,
+      "potassium": 3.8,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "712ba2d9-0a09-c072-f18a-dfcb62699780",
+    "age": 68,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "albuterol 5 MG/ML Inhalation Solution",
+      "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": 131.7,
+      "ldl": 210.5,
+      "hdl": 49.9,
+      "sbp": 113.0,
+      "dbp": 74.0,
+      "potassium": 4.9,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "c320d83f-e632-3f3d-8c06-3483f332869b",
+    "age": 66,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "aspirin 81 MG Oral Tablet",
+      "carvedilol 12.5 MG Oral Tablet",
+      "atorvastatin 40 MG Oral Tablet",
+      "prasugrel 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 9.4,
+      "ldl": 99.7,
+      "hdl": 48.6,
+      "sbp": 96.0,
+      "dbp": 66.0,
+      "potassium": 4.0,
+      "creatinine": 3.0
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "604eae27-4706-ba51-19f6-6239467eb7cf",
+    "age": 82,
+    "sex": "F",
+    "conditions": [
+      "Hypertension",
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Hydrochlorothiazide 25 MG Oral Tablet",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 7.0,
+      "egfr": 115.9,
+      "ldl": 151.5,
+      "hdl": 50.1,
+      "sbp": 111.0,
+      "dbp": 64.0,
+      "potassium": 4.0,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "ed472646-2b31-a80c-eb71-3ec3cd3fc625",
+    "age": 30,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.3,
+      "egfr": null,
+      "ldl": null,
+      "hdl": null,
+      "sbp": 119.0,
+      "dbp": 77.0,
+      "potassium": 4.3,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "67289883-b6e8-85d3-6775-a61c479c6554",
+    "age": 69,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "ferrous sulfate 325 MG Oral Tablet",
+      "doxycycline hyclate 100 MG",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [
+      "Allergic disposition (finding)",
+      "Penicillin V",
+      "Wheat (substance)"
+    ],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": null,
+      "ldl": 181.9,
+      "hdl": 58.6,
+      "sbp": 134.0,
+      "dbp": 76.0,
+      "potassium": 4.4,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "552461fe-485c-659e-a02a-3f43b6f4d209",
+    "age": 79,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "Galantamine 4 MG Oral Tablet",
+      "Alendronic acid 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": null,
+      "ldl": 84.0,
+      "hdl": 29.1,
+      "sbp": 91.0,
+      "dbp": 69.0,
+      "potassium": 5.1,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "a40b625c-13de-fca0-2ff5-b5a6d1773b18",
+    "age": 29,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.1,
+      "egfr": null,
+      "ldl": null,
+      "hdl": null,
+      "sbp": 99.0,
+      "dbp": 88.0,
+      "potassium": 5.0,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "1da91166-2ffc-b21e-9bb7-b8575bed93c8",
+    "age": 63,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 2"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "amLODIPine 2.5 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.7,
+      "egfr": 132.1,
+      "ldl": 115.6,
+      "hdl": 60.9,
+      "sbp": 132.0,
+      "dbp": 109.0,
+      "potassium": 4.2,
+      "creatinine": 1.5
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "957c697d-551f-c277-6a63-83494d857671",
+    "age": 59,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "medications": [],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": null,
+      "ldl": 126.5,
+      "hdl": 32.6,
+      "sbp": 122.0,
+      "dbp": 83.0,
+      "potassium": 3.7,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "fb245ec8-5eeb-5909-a3a7-e16c0aab14bf",
+    "age": 82,
+    "sex": "F",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medications": [
+      "Clopidogrel 75 MG Oral Tablet",
+      "Simvastatin 20 MG Oral Tablet",
+      "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet",
+      "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+      "lisinopril 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 5.9,
+      "egfr": 12.3,
+      "ldl": 59.6,
+      "hdl": 57.0,
+      "sbp": 122.0,
+      "dbp": 74.0,
+      "potassium": 4.3,
+      "creatinine": 3.0
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "b6ea6149-b845-4996-268c-e2ccdb6a7641",
+    "age": 69,
+    "sex": "M",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 6.0,
+      "egfr": 79.7,
+      "ldl": 130.7,
+      "hdl": 22.0,
+      "sbp": 99.0,
+      "dbp": 65.0,
+      "potassium": 4.9,
+      "creatinine": null
+    },
+    "treatment_history": []
+  },
+  {
+    "patient_id": "2dae7025-c266-5887-1444-bcdc2adaaebf",
+    "age": 69,
+    "sex": "M",
+    "conditions": [
+      "Hypertension",
+      "Chronic Kidney Disease stage 1",
+      "Type 2 Diabetes",
+      "Chronic Kidney Disease stage 2",
+      "Chronic Kidney Disease stage 3",
+      "Hyperlipidemia",
+      "Chronic Kidney Disease stage 4"
+    ],
+    "medications": [
+      "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+      "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+      "amLODIPine 2.5 MG Oral Tablet",
+      "Simvastatin 10 MG Oral Tablet"
+    ],
+    "allergies": [],
+    "labs": {
+      "hba1c": 4.3,
+      "egfr": 66.7,
+      "ldl": 133.3,
+      "hdl": 52.3,
+      "sbp": 129.0,
+      "dbp": 87.0,
+      "potassium": 3.9,
+      "creatinine": 1.9
+    },
+    "treatment_history": [
+      {
+        "drug": "insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",
+        "success": 0.95
+      }
+    ]
+  }
+]

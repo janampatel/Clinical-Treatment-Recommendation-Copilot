@@ -1,0 +1,14 @@
+numpy>=1.26,<2.2
+pandas>=2.1
+scikit-learn>=1.4
+sentence-transformers>=2.7
+qdrant-client>=1.9
+lightgbm>=4.3
+langgraph>=0.2
+langchain-core>=0.3
+fastapi>=0.115
+uvicorn[standard]>=0.30
+streamlit>=1.38
+pydantic>=2.7
+pytest>=8.2
+httpx>=0.27
